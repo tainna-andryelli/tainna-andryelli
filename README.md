@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil do GitHub 👋
 
 - 🔭 Futura Desenvolvedora de Software.
-- 🌱 Cursando Sistemas Para Internet
+- 🌱 Cursando Sistemas Para Internet.
 - 🌟 Cada dia mais apaixonada por tecnologia.
 
 
