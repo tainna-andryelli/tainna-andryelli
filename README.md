@@ -1,9 +1,9 @@
 # Hello everyone, I'm Tainná!
 ## Welcome to my GitHub profile 👋👋
 
-- 🔭 I'm a Web Develpment enthusiast.
-- 🌱 Currently pursuing a degree in Internet Systems.
-- 👩‍💻 I am an intern in the Development department at the São Leopoldo City Hall, where I apply my full stack skills, including user communication, Laravel, and Vue.js.
+- 🔭 I'm a Web Development enthusiast.
+- 🌱 Currently pursuing a degree in Internet Systems at Unisinos.
+- 👩‍💻 I am an intern developer at SAP.
 - 🌟 Every day is an opportunity for growth, making a difference, and practicing my skills 🤓.
 
 ## I'm exploring:
