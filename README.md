@@ -18,25 +18,14 @@
 
 
 ## I'm currently exploring:
-- **Golang** for backend development
+- **Golang** for backend development 
 
 - **Microservices** architecture
 
 - **Docker** and **Kubernetes** for containerization and orchestration
 
 - **Testing** best practices and tools
----
-### 📈 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tainna-andryelli&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainna-andryelli&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
----
-
-## Tech stack & tools I’ve been working with:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 ---
 
 ### 📫 Let's Connect
